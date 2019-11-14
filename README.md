@@ -1,5 +1,3 @@
-# Bridge Management
-
 [Back to Main](https://trinhshub.github.io/)
 
 During my masters program, I worked on a part of the 10-Year Management Plan sponsored by the Texas Department of Transportation (TxDOT). I was tasked with developing an excel-based tool to compute bridge asset values on individual and network level. This project requires conducting research related to bridge asset valuation, management practice, and performance prediction. 
